@@ -12,14 +12,6 @@ With EMVs becoming an increasingly prevalent solution to urban congestion, energ
 - `Data/`: Contains the SP survey datasets used in this project.
 - `Results/`: Houses the outputs from the Hybrid Mixed Choice model and data analysis.
 
-## Getting Started
-
-Check the README files in the respective directories for instructions on how to run the scripts or use the data.
-
-## Contributions
-
-Contributions are always welcome! You can fork the project, make your alterations, and then submit a pull request. If you encounter any issues, please feel free to open an issue on GitHub.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
